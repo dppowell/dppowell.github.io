@@ -1,0 +1,13 @@
+For my senior capstone I chose to focus on improving design elements on the web to be more inclusive for 
+people who are diagnosed with ADHD and Dyslexia. I had to start from the ground up to impliment all the 
+changes that my research had insistent were important. With the unique nature of both ADHD and Dyslexia 
+I didnt just want to have a select few options for color shifts, so I gave the user full control over 
+the color of the text color, the line color, the background, and the font of the text itself. I also 
+designed the site so that all changes would be saved locally so you can see the same changes on all pages 
+of the site.
+
+The structure of the page is split up into four main parts. The main page which features my own iconography,
+the modal displaying the changing options, and a menu to navigate my page, a design page, a development page, 
+and then an about me page. Each one is set to save any design changes locally and reuse them on each page.
+Any changes will be saved even if you exit out of the page. All other icons were made using svg files which 
+allows them to animate using css and also have their colors changed along with the rest of the page.
